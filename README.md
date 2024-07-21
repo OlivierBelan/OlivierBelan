@@ -3,7 +3,7 @@
 <!-- add imgae -->
 ![Texte alternatif](Olivier_Belan_intro.png)
 
-## 👨🏾‍🏫 Please find my full resume [here](CV_Olivier_Belan.pdf) 
+## 👨🏾‍🏫 Please find my full resume [here](CV_Olivier_Belan.pdf) 🔬
 
 
 
