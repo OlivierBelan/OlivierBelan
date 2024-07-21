@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 <!-- add imgae -->
-![Texte alternatif](CV_Olivier_Belan_intro.png)
+![Texte alternatif](Olivier_Belan_intro.png)
 
 <!-- ![Texte alternatif](CV_Olivier_Belan-1.png)
 ![Texte alternatif](CV_Olivier_Belan-2.png)
