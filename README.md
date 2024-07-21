@@ -1,9 +1,11 @@
 ## Hi there 👋
 
 <!-- add imgae -->
-![Texte alternatif](CV_Olivier_Belan-1.png)
+![Texte alternatif](CV_Olivier_Belan_intro.png)
+
+<!-- ![Texte alternatif](CV_Olivier_Belan-1.png)
 ![Texte alternatif](CV_Olivier_Belan-2.png)
-![Texte alternatif](CV_Olivier_Belan-3.png)
+![Texte alternatif](CV_Olivier_Belan-3.png) -->
 
 <!--
 **OlivierBelan/OlivierBelan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
