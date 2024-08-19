@@ -1,13 +1,7 @@
 ## Hi there 👋
 
-### Originally from Paris, a Kent and Epitech graduate, I’m currently advancing my PhD in Artificial Intelligence at
-the University of Kent, England. My research interests include NeuroEvolution, Spiking Neural Networks,
-Neuromorphic Computing, and Reinforcement Learning, though I am always keen to expand my knowledge in
-other areas. I am currently seeking an internship and would be happy to connect and collaborate on innovative
-projects!
-
 <!-- add imgae -->
-<!-- ![Texte alternatif](Olivier_Belan_intro.png) -->
+![Texte alternatif](Olivier_Belan_intro.png)
 
 ## 👨🏾‍🏫 Please find my full resume [here](CV_Olivier_Belan.pdf) 🔬
 
